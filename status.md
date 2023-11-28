@@ -1,16 +1,16 @@
 # Status Report
 
-#### Your name
+####
 
-TODO
+Ava Taurino
 
-#### Your section leader's name
+#### 
 
-TODO
+Yang Zhao
 
-#### Project title
+#### 
 
-TODO
+CincoConnect
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+SO far, I have completed my outline, pulled an image, started the beginnings of writing the code.
 
 #### What have you not done for your project yet?
 
-TODO
+I don't think I'm missing anything that I have not done or plan to do yet. I have a clear path and timeline of how I want to complete this.
 
 #### What problems, if any, have you encountered?
 
-TODO
+None. So far so good.
